@@ -168,4 +168,4 @@ LOGGING = {
 
 CRONJOBS = [
     ('*/1 * * * *', 'cron_app.cron.get_data','>> /home/pysaundary/Desktop/prabhat/project/Other/cron_app_api/cron_app/files.log'),
-    
+]
