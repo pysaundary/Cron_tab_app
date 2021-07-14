@@ -6,3 +6,5 @@ for admin panel username is "pysaundary"
 and password is "1010" all are numerical
 
 all log will generate inside 'cron_app/files.log'
+
+in this project log will generate in every 5 min  
